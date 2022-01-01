@@ -13,8 +13,10 @@ Imbalance energy is the energy fed into or extracted from the power transmission
 
 ## __Repo structure__
 
-* our final notebooks about Data Cleaning, Mining and EDA and the different models are [here](https://github.com/AaronsHub/capstone_energy/tree/main/final_notebooks)
-* used and created images are [here](https://github.com/AaronsHub/capstone_energy/tree/main/images)
+* our final notebooks about preprocessing data, eda and the 2 models sarima and prophet are [here](https://github.com/IronMan2483/neuefische_Capstone/tree/main/final_notebooks)
+* used and created images are [here](https://github.com/IronMan2483/neuefische_Capstone/tree/main/images)
+* [slides](https://github.com/IronMan2483/neuefische_Capstone/blob/main/slides/Capstone_bendthewind.pdf) used in the final presentation
+* <a href="https://www.youtube.com/watch?v=BiMvUGV7Gto&t=6s" target="blank"><img align="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png" alt="https://www.youtube.com/watch?v=BiMvUGV7Gto&t=6s" height="15" width="40" /></a> recorded final presentation
 
 ---
 
