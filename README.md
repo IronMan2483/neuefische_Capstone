@@ -38,20 +38,12 @@ We selected the following features:
 ---
 ## __Setup__
 
-Use the requirements file in this repo to create a new environment.
-
-```BASH
-make setup
-
-#or
-
+```
 pyenv local 3.9.4
 python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements_dev.txt
 ```
-
-The `requirements.txt` file contains the libraries needed for deployment.. of model or dashboard .. thus no jupyter or other libs used during development.
 
 ---
